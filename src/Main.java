@@ -6,10 +6,12 @@ public class Main {
     public static void main(String[] args) {
 
         // Task 1
-        /*String firstName = "Joey";
+        /*
+        String firstName = "Joey";
         String lastName = "Ferrari";
         String name = firstName + " " + lastName;
-        System.out.println(name);*/
+        System.out.println(name);
+        */
 
         //Task 2
 
@@ -34,7 +36,8 @@ public class Main {
 
         //Task 3
 
-        Scanner scannerObj = new Scanner(System.in);  // Create a Scanner object
+        /*
+        Scanner scannerObj = new Scanner(System.in);
         System.out.println("Enter first name:");
         String firstName = scannerObj.nextLine();
         System.out.println("Enter last name:");
@@ -46,5 +49,6 @@ public class Main {
         System.out.println("Enter a second number: ");
         double num2 = Double.parseDouble(scannerObj.nextLine());
         System.out.println(num1 + num2);
+        */
     }
 }
