@@ -27,6 +27,35 @@ public class Exercise2 {
             System.out.println("x and y are even numbers");
         }
         */
+
+//        int i = 0;
+//
+//        while (i < 10) {
+//            System.out.println("i = " + i);
+//            i++;
+//        }
+
+//        int i = 0;
+//        int j = 10;
+//
+//        while (i < j) {
+//            System.out.println("i = " + i);
+//            System.out.println("j = " + j);
+//
+//            i++;
+//            j--;
+//        }
+
+//        int i = 0;
+//        int sum = 0;
+//
+//        while (i < 10) {
+//            sum += i;
+//            System.out.println("Sum is " + sum);
+//
+//            i++;
+//        }
+
     }
 }
 
