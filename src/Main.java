@@ -11,5 +11,24 @@ public class Main {
 
         //Task 2
 
+        // assigning variables
+        int num1 = 10, num2 = 5;
+
+        // printing out the sum
+        System.out.println(num1 + num2);
+
+        // assigning variables
+        int result = num1 / num2;
+        System.out.println(result);  // printing out the result of division
+
+        // assigning variables
+        int num3 = 8;
+
+        // printing out the result of increments
+        System.out.println(num3++);
+
+        System.out.println(num3);
+        System.out.println(++num3);
+
     }
 }
