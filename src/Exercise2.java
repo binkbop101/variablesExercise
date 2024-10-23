@@ -90,6 +90,47 @@ public class Exercise2 {
             System.out.println("Sum is " + sum);
         }
         */
+
+
+        //Task 10
+
+//        int i = 0;
+//
+//        do {
+//            System.out.println("i = " + i);
+//            i++;
+//        }
+//        while (i < 10);
+
+//
+//        //Task 11
+//
+//        int i = 0;
+//        int j = 10;
+//
+//        do {
+//            System.out.println("i = " + i);
+//            System.out.println("j = " + j);
+//
+//            i++;
+//            j--;
+//        }
+//        while (i < j);
+//
+//
+//        //Task 12
+//
+//        int i = 0;
+//        int sum = 0;
+//
+//       do {
+//            sum += i;
+//            System.out.println("Sum is " + sum);
+//
+//            i++;
+//        }
+//       while (i < 10);
+
     }
 }
 
