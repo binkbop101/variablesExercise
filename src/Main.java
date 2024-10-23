@@ -2,9 +2,14 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        String firstName = "Joey";
+
+        // Task 1
+        /*String firstName = "Joey";
         String lastName = "Ferrari";
         String name = firstName + " " + lastName;
-        System.out.println(name);
+        System.out.println(name);*/
+
+        //Task 2
+
     }
 }
